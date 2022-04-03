@@ -1,3 +1,11 @@
+#
+#   fantastic_bits.py
+#   Fantastic bits / Broomstick Flyers
+#
+#   Created by philRG on 03/04/2022
+#   Copyright © 2022 philRG. All rights reserved.
+#
+
 import random
 import sys
 from dataclasses import dataclass, field
