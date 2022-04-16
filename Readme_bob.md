@@ -2,7 +2,7 @@
 
 [Markdown syntax](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/)
 
-|Strategy #|Wood 1|Wood 2|Bronze|Silver|Gold|Legend|
+|Strategy #|Wood 2|Wood 1|Bronze|Silver|Gold|Legend|
 |-|-|-|-|-|-|-|
 |1|1/267(+4)|2/423|x|x|x|x|
 |2|x|x|x|x|x|x|
