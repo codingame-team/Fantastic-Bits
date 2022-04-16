@@ -32,9 +32,11 @@ class Entity:
     vy: int
     state: int
     location: array = field(init=False)
+    velocity: array = field(init=False)
 
     def __post_init__(self):
         self.location = array([self.x, self.y], dtype=int)
+        self.velocity = array([self.x, self.y], dtype=int)
 
     def distance(self, other_location: array):
         return linalg.norm(other_location - self.location)
@@ -107,7 +109,7 @@ while True:
             done = True
         if not done:
             snaffle: Entity = min(snaffles, key=lambda s: s.distance(wizard.location))
-            dest_x, dest_y = snaffle.location
+            dest_x, dest_y = snaffle.location + snaffle.velocity
             wizard.action = f'MOVE {dest_x} {dest_y} {MAX_THRUST}'
 
         # Edit this line to indicate the action for each wizard (0 ≤ thrust ≤ 150, 0 ≤ power ≤ 500)
