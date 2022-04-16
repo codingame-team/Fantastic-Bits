@@ -4,7 +4,7 @@
 
 |Step #|Wood 1|Wood 2|Bronze|Silver|Gold|Legend|
 |-|-|-|-|-|-|-|
-|1|267(+4)|x|x|x|x|x|
+|1|1/267(+4)|x|x|x|x|x|
 |2|x|x|x|x|x|x|
 
 1. move to Wood 1
