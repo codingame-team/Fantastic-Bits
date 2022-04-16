@@ -2,9 +2,9 @@
 
 [Markdown syntax](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/)
 
-|Step #|Wood 1|Wood 2|Bronze|Silver|Gold|Legend|
+|Strategy #|Wood 1|Wood 2|Bronze|Silver|Gold|Legend|
 |-|-|-|-|-|-|-|
-|1|1/267(+4)|x|x|x|x|x|
+|1|1/267(+4)|2/423|x|x|x|x|
 |2|x|x|x|x|x|x|
 
 1. move to Wood 1
