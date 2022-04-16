@@ -20,7 +20,7 @@ if player has a snaffle
        
 if not done
        find snaffle closest to player
-       move to the snaffle’s predicted position at max thrus
+       move to the snaffle’s position at max thrust (predicted position on next turn)
 ```
 
 2. move to Silver
